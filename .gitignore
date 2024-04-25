@@ -1,4 +1,5 @@
 /target
 settings.json
 *.pdf
-accounts.csv
+*.csv
+test.py
